@@ -13,7 +13,7 @@ Education
 ======
 * B.Sc (Honors) Computer Science, Ramakrishna Mission Residential College Narendrapur, Calcutta University, 2013
 * M.C.A. , National Institute of Technology Durgapur, 2016
-* Ph.D in Computer Science & Engineerng, National Institute of Technology Durgapur, 2017-Now
+* Ph.D in Computer Science & Engineering, National Institute of Technology Durgapur, 2017-Now
 
 Work experience
 ======
